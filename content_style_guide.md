@@ -38,12 +38,12 @@
 
 <span style="color: red">※ Markdown</span>
 
-記述:
+- 記述:
 \`\`\`言語名
 ソースコード
 \`\`\`
 
-例:
+- 例:
 \`\`\`C
 int a = 5;
 printf(a);
