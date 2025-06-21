@@ -25,7 +25,9 @@ Markdown専用の記法については<span style="color: red">※ Markdown</spa
 - 記述: `"引用内容"`
 - 例: `お金について"あればあるだけよい"という研究結果が存在する`
 
-### ソースコード(ブロック) <span style="color: red"}>※ Markdown</span>
+### ソースコード(ブロック)
+
+<span style="color: red">※ Markdown</span>
 
 記述:
 \`\`\`言語名
@@ -38,7 +40,9 @@ int a = 5;
 printf(a);
 \`\`\`
 
-### ソースコード(文中) <span style="color: red"}>※ Markdown</span>
+### ソースコード(文中)
+
+<span style="color: red">※ Markdown</span>
 
 - 記述: \`ソースコード\`
 - 例: \`int a = 5;\`
