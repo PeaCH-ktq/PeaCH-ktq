@@ -1,0 +1,7 @@
+
+root = true #ルートディレクトリのeditorconfig
+
+[*]
+end_of_line = lf #改行コード
+insert_final_newline = true #ファイル末尾を改行(gitでdiffがおかしくならないようにするため)
+charset = utf-8 #文字コード
